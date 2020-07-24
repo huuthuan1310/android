@@ -78,7 +78,7 @@
     <string name="common_send">Gửi</string>
     <string name="common_share">Chia sẻ</string>
     <string name="common_unknown">không biết</string>
-    <string name="common_yes">Yes</string>
+    <string name="common_yes">Có</string>
     <string name="community_contribute_translate_translate">Translate</string>
     <string name="confirmation_remove_file_alert">Bạn thực sự muốn xóa %1$s?</string>
     <string name="confirmation_remove_files_alert">Bạn thực sự muốn xóa mục lựa chọn này?</string>
@@ -196,7 +196,7 @@
     <string name="file_list_empty_text_photos_filter">Không có hình ảnh</string>
     <string name="file_list_empty_text_videos">Tải lên vài đoạn phim hoặc kích hoạt tự dộng tải lên</string>
     <string name="file_list_empty_text_videos_filter">Không có đoạn phim nào.</string>
-    <string name="file_list_folder">folder</string>
+    <string name="file_list_folder">thư mục</string>
     <string name="file_list_loading">Đang tải…</string>
     <string name="file_list_no_app_for_file_type">Không có ứng dụng nào được thiết lập để xử lý loại tệp này.</string>
     <string name="file_list_seconds_ago">vài giây trước</string>
@@ -504,4 +504,22 @@
     <string name="version_dev_download">Tải về</string>
     <string name="wait_a_moment">Đợi một chút…</string>
     <string name="whats_new_skip">Bỏ qua</string>
-    </resources>
+    <string name="prefs_lock">Khoá ứng dụng</string>
+    <string name="prefs_lock_title">Bảo mật</string>
+    <string name="prefs_enable_media_scan_notifications">Hiển thị thông báo quét thư viện</string>
+    <string name="prefs_enable_media_scan_notifications_summary">Thông báo khi tìm thấy thư viện mới</string>
+    <string name="prefs_theme_title">Giao diện</string>
+    <string name="prefs_value_theme_system">Theo dõi hệ thống</string>
+    <string name="file_list_empty_on_device">Các tập tin và thư mục đã được tải sẽ được hiển thị tại đây.</string>
+    <string name="file_list_empty_favorites_filter_list">Các tập tin và thư mục mà bạn đã yêu thích sẽ được hiển thị ở đây.</string>
+    <string name="file_list_empty_shared">Các tập tin và thư mục mà bạn đã chia sẻ sẽ được hiển thị ở đây.</string>
+    <string name="trashbin_empty_message">Bạn có thể khôi phục các tập tin đã xoá từ đây.</string>
+    <string name="common_switch_account">Chuyển tài khoản</string>
+    <string name="common_switch_to_account">Chuyển đến tài khoản</string>
+    <string name="auth_incorrect_path_title">Không tìm thấy máy chủ</string>
+    <string name="auth_unknown_host_title">Không thể tìm thấy máy chủ</string>
+    <string name="auth_ssl_unverified_server_title">Không thể xác nhận được SSL của máy chủ</string>
+    <string name="auth_wrong_connection_title">Không thể kết nối</string>
+    <string name="clipboard_text_copied">Liên kết đã được sao chép</string>
+    <string name="clipboard_no_text_to_copy">Không thể sao chép đến bộ nhớ tạm</string>
+</resources>

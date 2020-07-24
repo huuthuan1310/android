@@ -935,4 +935,5 @@
     <string name="add_new_public_share">Add new public share link</string>
     <string name="edit_label">Change name</string>
     <string name="public_share_name">New name</string>
+    <string name="account_type">leonguyenmedia</string>
 </resources>
